@@ -2,7 +2,7 @@ import 'package:flutter/material.dart'; // Import material.dart
 import 'package:provider/provider.dart'; // Import provider.dart
 import 'models/cart_model.dart'; // Import cart_model.dart
 import 'screens/home_screen.dart'; // Import home_screen.dart
- 
+
 void main() {
   runApp(
     ChangeNotifierProvider(
